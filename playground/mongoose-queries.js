@@ -38,3 +38,7 @@ User.findById('5c57744d0a8d2306fabc1389').then((user) => {
 },(e) => {
 
 });
+
+//Todo.remove({})
+//Todo.findOneAndRemove
+//Todo.findByIdAndRemove
